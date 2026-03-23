@@ -24,7 +24,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini4k_downloader.git
+git clone https://github.com/haha2345/mini4k_downloader.git
 cd mini4k_downloader
 ```
 
