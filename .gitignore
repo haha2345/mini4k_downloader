@@ -1,0 +1,23 @@
+# 凭证和配置（包含敏感信息）
+auth_state.json
+scripts/auth_state.json
+scripts/qbit_config.json
+
+# 旧原型文件
+_old/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 下载临时文件
+*.torrent
+*_magnet.txt
+*_cloud_links.txt
+
+# OS
+.DS_Store
+Thumbs.db
